@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hello from Nodejs App');
+  res.send('Checking this is deployed on live server');
 
 });
 
